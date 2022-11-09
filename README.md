@@ -25,7 +25,7 @@ I am ready to contribute my skills to your business with an Internship for the S
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Project Euler and designing my own MIPS CPU  
+- 🔭 I’m currently working on completing my Computer Science Degree and Project Euler 
   
 
 - 🌱 I’m currently learning Assembly Language  
